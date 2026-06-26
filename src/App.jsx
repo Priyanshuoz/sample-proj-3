@@ -1,4 +1,3 @@
-import React from 'react'
 import Section1 from './component/Section 1/Section1'
 import Section2 from './component/Section 2/Section2'
 
