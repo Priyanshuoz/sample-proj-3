@@ -7,8 +7,7 @@ const Herotxt = () => {
         Prospective <br /> <span>customer</span> <br /> segmentation
       </h3>
       <p className="text-xl font-medium text-gray-600">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-        reiciendis quam rerum debitis laborum enim consectetur harum, a quae.
+        Depending on customer satisfaction and access to banking products, potential target audience can be divided into many groups.
       </p>
     </div>
   );
